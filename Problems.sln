@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sorted Lists - 23", "Merge Sorted Lists - 23\Merge Sorted Lists - 23.csproj", "{4ED5965B-91F0-4594-8790-B27CA32BE89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strStr - 28", "strStr - 28\strStr - 28.csproj", "{B1D850CD-1F55-4E61-BB1F-B9BDCCD0DCB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4ED5965B-91F0-4594-8790-B27CA32BE89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED5965B-91F0-4594-8790-B27CA32BE89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED5965B-91F0-4594-8790-B27CA32BE89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D850CD-1F55-4E61-BB1F-B9BDCCD0DCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D850CD-1F55-4E61-BB1F-B9BDCCD0DCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D850CD-1F55-4E61-BB1F-B9BDCCD0DCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D850CD-1F55-4E61-BB1F-B9BDCCD0DCB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
